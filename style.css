@@ -1,0 +1,131 @@
+.left_navbar {
+    float: left;
+    margin: 10px;
+}
+
+.right_navbar {
+    float: right;
+    margin: 10px;
+}
+
+.left_nav_item {
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+    /*margin-left: 15px;*/
+}
+
+.right_nav_item {
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+    /*margin-left: 15px;*/
+}
+
+.left_nav_item:hover {
+    text-decoration: underline;
+}
+
+.right_nav_item:hover {
+    text-decoration: underline;
+}
+
+.main {
+    margin-top: 150px;
+    text-align: center;
+}
+
+body {
+    display: contents;
+}
+
+.input_area {
+    margin-top: 20px;
+}
+
+.input_box {
+    width: 584px;
+    height: 46px;
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    padding-left: 50px;
+    padding-right: 110px;
+}
+
+.search_icon {
+    position: relative;
+    left: 40px;
+    color: #9aa0a6;
+}
+
+.camera_icon {
+    position: relative;
+    right: 80px;
+    color: #9aa0a6;
+}
+
+.mic_icon {
+    position: relative;
+    right: 90px;
+    color: #9aa0a6;
+}
+
+.keyboard_icon {
+    position: relative;
+    right: 100px;
+    color: #9aa0a6;
+}
+
+.button_area {
+    padding-top: 20px;
+}
+
+.button_style {
+    height: 36px;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    padding: 0 16px;
+    margin: 11px 4px;
+}
+
+.button_style:hover {
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    background-color: #f8f9fa;
+    border: 1px solid #dadce0;
+    color: #202124;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0px;
+    background: #f2f2f2;
+    width: 100%;
+}
+
+.first_line {
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    color: #70757a;
+}
+
+.second_line {
+    padding: 15px 30px;
+    border-bottom: 1px solid #dadce0;
+    color: #70757a;
+}
+
+.second_line_item {
+    text-decoration: none;
+    color: #70757a;
+    margin-right: 15px;
+}
+
+.second_line_item:hover {
+    text-decoration: underline;
+}
+
+.second_line_right {
+    float: right;
+}
