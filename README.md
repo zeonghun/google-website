@@ -1,6 +1,6 @@
 # Google 웹사이트
 
-![image](https://user-images.githubusercontent.com/115923975/198527793-54d86ce4-1699-4bee-965e-a513f4c2f5bf.png)
+![image](https://user-images.githubusercontent.com/115923975/198532431-3b1b4e56-a8a1-464c-9514-1f4ab704872d.png)
 
 ● 데모 : https://google-website.zeonghun.repl.co/
 
